@@ -1,0 +1,84 @@
+{
+	"id": "fa72e44e-64f7-4308-b5c2-1e8fbf9e4c88",
+	"name": "投票批量",
+	"timestamp": "2021-05-26T10:41:20.926Z",
+	"collection_id": "d8acd4e8-aeea-44e4-b5f9-01fd5571a97a",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 10,
+	"results": [
+		{
+			"id": "67e0d73a-17f6-414f-90fd-e60d94dff63a",
+			"name": "投票",
+			"time": 49,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Check respose status value": false
+			},
+			"testPassFailCounts": {
+				"Check respose status value": {
+					"pass": 0,
+					"fail": 10
+				}
+			},
+			"times": [
+				51,
+				48,
+				47,
+				51,
+				47,
+				48,
+				48,
+				50,
+				50,
+				49
+			],
+			"allTests": [
+				{
+					"Check respose status value": false
+				},
+				{
+					"Check respose status value": false
+				},
+				{
+					"Check respose status value": false
+				},
+				{
+					"Check respose status value": false
+				},
+				{
+					"Check respose status value": false
+				},
+				{
+					"Check respose status value": false
+				},
+				{
+					"Check respose status value": false
+				},
+				{
+					"Check respose status value": false
+				},
+				{
+					"Check respose status value": false
+				},
+				{
+					"Check respose status value": false
+				}
+			]
+		}
+	],
+	"count": 10,
+	"totalTime": 489,
+	"collection": {
+		"requests": [
+			{
+				"id": "67e0d73a-17f6-414f-90fd-e60d94dff63a",
+				"method": "POST"
+			}
+		]
+	}
+}
