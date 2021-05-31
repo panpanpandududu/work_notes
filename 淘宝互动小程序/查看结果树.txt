@@ -1,7 +1,0 @@
-timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
-1622207681809,125,用户提交协议,200,,小程序压力测试 1-1,text,true,,392,305,1,1,http://8.142.17.120:8080/volvo/taobao/app/20210501/api/tb/base/customer/submit,123,0,65
-1622207682222,84,用户提交协议,200,,小程序压力测试 1-2,text,true,,392,305,1,1,http://8.142.17.120:8080/volvo/taobao/app/20210501/api/tb/base/customer/submit,84,0,37
-1622207704901,76,用户提交协议,200,,小程序压力测试 1-1,text,true,,392,305,1,1,http://8.142.17.120:8080/volvo/taobao/app/20210501/api/tb/base/customer/submit,76,0,36
-1622207705399,70,用户提交协议,200,,小程序压力测试 1-2,text,true,,392,305,1,1,http://8.142.17.120:8080/volvo/taobao/app/20210501/api/tb/base/customer/submit,70,0,33
-1622207720725,82,用户提交协议,200,,小程序压力测试 1-1,text,true,,392,305,1,1,http://8.142.17.120:8080/volvo/taobao/app/20210501/api/tb/base/customer/submit,82,0,42
-1622207721225,68,用户提交协议,200,,小程序压力测试 1-2,text,true,,392,305,1,1,http://8.142.17.120:8080/volvo/taobao/app/20210501/api/tb/base/customer/submit,68,0,33
